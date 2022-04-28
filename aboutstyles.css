@@ -3,7 +3,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: rgb(0, 26, 99);
+    background-color: #0B1532;
   }
   
   li {
@@ -20,9 +20,8 @@ ul {
 
   }
   
-
   li a:hover {
-    background-color: rgb(61, 211, 50);
+    background-color:#328D2A;
   }
 
 .container {
