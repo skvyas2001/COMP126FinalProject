@@ -3,7 +3,6 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: #0B1532;
   }
   
   li {
@@ -54,7 +53,7 @@ h4 {
     grid-row-end: 2;
     grid-column-start: 1;
     grid-column-end: 3;
-    background-color: aqua;
+    background-color: #0B1532;
 }
 
 .one-box {
@@ -209,5 +208,6 @@ h4 {
         grid-row-end: 7;
         grid-column-start: 1;
         grid-column-end: 5;
+        background-color: #0B1532;
+        text-align: center;
     }
-}
