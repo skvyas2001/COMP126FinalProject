@@ -30,6 +30,24 @@ ul {
     grid-template-columns: repeat(2, 50vw);
     grid-template-rows: auto;
     grid-gap: 5px;
+    background-color: #F7FAEF;
+    color: #0B1532;
+}
+
+h1 {
+    color:#328D2A;
+}
+
+h2 {
+    color:#328D2A
+}
+
+h3 {
+    color: #328D2A;
+}
+
+h4 {
+    color:#328D2A;
 }
 
 .header-box {
